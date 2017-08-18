@@ -6,3 +6,4 @@ C:\Users\James\Documents\GitHub\CSharpMenu\Menu\bin\Debug\netcoreapp1.1\Menu.pdb
 C:\Users\James\Documents\GitHub\CSharpMenu\Menu\obj\Debug\netcoreapp1.1\Menu.AssemblyInfo.cs
 C:\Users\James\Documents\GitHub\CSharpMenu\Menu\obj\Debug\netcoreapp1.1\Menu.dll
 C:\Users\James\Documents\GitHub\CSharpMenu\Menu\obj\Debug\netcoreapp1.1\Menu.pdb
+C:\Users\James\documents\GitHub\CSharpMenu\Menu\obj\Debug\netcoreapp1.1\Menu.csprojResolveAssemblyReference.cache

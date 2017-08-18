@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\James\\Documents\\GitHub\\CSharpMenu\\Menu\\Menu.csproj",
+      "projectUniqueName": "C:\\Users\\James\\documents\\GitHub\\CSharpMenu\\Menu\\Menu.csproj",
       "projectName": "Menu",
-      "projectPath": "C:\\Users\\James\\Documents\\GitHub\\CSharpMenu\\Menu\\Menu.csproj",
-      "outputPath": "C:\\Users\\James\\Documents\\GitHub\\CSharpMenu\\Menu\\obj\\",
+      "projectPath": "C:\\Users\\James\\documents\\GitHub\\CSharpMenu\\Menu\\Menu.csproj",
+      "outputPath": "C:\\Users\\James\\documents\\GitHub\\CSharpMenu\\Menu\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
